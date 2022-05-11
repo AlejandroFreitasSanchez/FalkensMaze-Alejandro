@@ -1,0 +1,7 @@
+Las validaciones se han realizado y comprobado en la pagina liquid-technologies
+
+XML:
+https://www.liquid-technologies.com/online-xml-validator
+
+JSON:
+https://www.liquid-technologies.com/online-json-validator
